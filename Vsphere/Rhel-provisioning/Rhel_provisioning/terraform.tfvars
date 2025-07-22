@@ -1,6 +1,6 @@
 vsphere_server   = "10.10.90.51"
 vsphere_user     = "administrator@vsphere.local"
-vsphere_password = "Dellsvcs1!"
+vsphere_password = "password"
 datacenter       = "Galaxy-DC"
 datastore        = "ocp4vol"
 cluster          = "Pflex-Cluster1"
