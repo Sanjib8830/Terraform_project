@@ -1,0 +1,3 @@
+[submodule "Vsphere/learn-terraform-vsphere"]
+	path = Vsphere/learn-terraform-vsphere
+	url = https://github.com/your-username/learn-terraform-vsphere.git
